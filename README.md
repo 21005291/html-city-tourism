@@ -579,8 +579,14 @@ footer {
 ```
 Output:
 
-![Screenshot 2024-07-15 063304](https://github.com/user-attachments/assets/3aec3474-b08d-4ce8-a292-e5746436ef9c)
-
-
+![Screenshot 2024-07-15 063220](https://github.com/user-attachments/assets/58b800ce-0fa4-4589-866e-1caad4d6aae4)
+![Screenshot 2024-07-15 063214](https://github.com/user-attachments/assets/005c23d2-2b6c-46e6-bdbb-785bde9cf743)
+![Screenshot 2024-07-15 063304](https://github.com/user-attachments/assets/a492c1c8-5f6b-4b32-a03c-69dd6d0eecbb)
+![Screenshot 2024-07-15 063257](https://github.com/user-attachments/assets/31c4903c-39a7-45a9-beac-96200eda69d2)
+![Screenshot 2024-07-15 063252](https://github.com/user-attachments/assets/5d24f49b-62df-46c5-b02d-8fa588e27eaa)
+![Screenshot 2024-07-15 063245](https://github.com/user-attachments/assets/1a772392-8a5b-4734-9271-f91a6935ca27)
+![Screenshot 2024-07-15 063238](https://github.com/user-attachments/assets/2f7eab0b-28ed-4265-883c-f7d9a38e4330)
+![Screenshot 2024-07-15 063232](https://github.com/user-attachments/assets/12a85b31-343c-453e-a73a-1ea857d574b9)
+![Screenshot 2024-07-15 063226](https://github.com/user-attachments/assets/2d7d6f6a-571a-4706-abe2-48279f4ebd0a)
 Result:
 Thus,Creating a website for college was executed successfully.
